@@ -1,4 +1,5 @@
-# Case study Template
+# FAIR national adaptation hub 
 
-This is a template for a FAIR2Adapt case study
+Developing and testing a FAIR-by-design national adaptation hub
+
 

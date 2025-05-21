@@ -1,6 +1,6 @@
-# Case study Template
+# FAIR national adaptation hub
 
-- Use this template for creating new case study repository.
-- Enable web pages from github action
-- Change the static/thumnail.png for your case study
-- And update the case study accordingly!
+[![RoHub Executable Research Object](https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue)](https://w3id.org/ro-id/2cace03a-fa6d-450a-9192-dd17fe85a941)
+
+Developing and testing a FAIR-by-design national adaptation hub
+

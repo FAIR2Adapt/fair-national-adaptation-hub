@@ -26,6 +26,7 @@ project:
   toc:
     - file: index.md
     - file: notebooks/create_aida_nanopub.ipynb
+    - file: notebooks/DOI2RO-Crate.ipynb
   exports:
     - format: pdf
       template: curvenote

@@ -25,11 +25,11 @@ project:
   date: 2025-05-16
   toc:
     - file: index.md
-    - file: notebooks/notebook.ipynb
+    - file: notebooks/create_aida_nanopub.ipynb
   exports:
     - format: pdf
       template: curvenote
-      article: notebooks/notebook.ipynb
+      article: notebooks/create_aida_nanopub.ipynb
       output: exports/notebook.pdf
     - format: cff
       type: software

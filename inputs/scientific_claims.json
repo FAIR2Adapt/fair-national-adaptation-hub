@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "source_paper": {
+      "title": "Sustainable Placemaking and Thermal Comfort Conditions in Urban Spaces: The Case Study of Avenida dos Aliados and Praça da Liberdade (Porto, Portugal)",
+      "doi": "10.3390/urbansci9020038"
+    },
+    "creator_orcid": null,
+    "creator_name": null,
+    "is_part_of": {
+      "uri": null,
+      "label": null
+    }
+  },
+  "template_uri": "https://w3id.org/np/RALmXhDw3rHcMveTgbv8VtWxijUHwnSqhCmtJFIPKWVaA",
+  "nanopublications": [
+    {
+      "aida_sentence": "The urban microclimate of Avenida dos Aliados and Praça da Liberdade exhibits a temperature range of 15°C to 38°C across winter and summer seasons.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "In the urban microclimate of Avenida dos Aliados and Praça da Liberdade, the relative humidity (RH) was found to fluctuate between 50% and 85%.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Wind speeds in urban microclimates can vary between 1.0 m/s and 2.5 m/s.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Solar radiation has a significant impact on surface temperatures, with maximum values of 38.0°C observed in certain areas.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Solar exposure, wind patterns, and surface temperature (Tsurf) are the primary factors that influence thermal comfort in urban environments.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Shaded areas with a substantial amount of greenery reduce heat discomfort and are preferred by pedestrians, as shown by the study on Avenida dos Aliados and Praça da Liberdade.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Incorporating adaptive elements, such as greenery, shading structures, and ventilation corridors, can effectively alleviate discomfort from heat and improve thermal comfort in urban environments.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Shaded areas with greenery alleviate discomfort from heat, making them preferred choices for pedestrians, and should be prioritized in urban design to promote active use of public spaces.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    },
+    {
+      "aida_sentence": "Urban design should prioritize the inclusion of pedestrian-friendly elements, such as shaded walkways and seating areas, to promote the active use of public spaces in order to mitigate the effects of climate change.",
+      "topics": [
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3774617",
+          "label": "extreme heat"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q45",
+          "label": "Portugal"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q104596535",
+          "label": "urban sustainability"
+        }
+      ]
+    }
+  ]
+}
